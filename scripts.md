@@ -41,17 +41,17 @@ These are used as needed to improve conversion, show-up rate, and lead recovery.
 
 ### Models
 
-- [04_call_scripts_models](./models/04_call_scripts_models.md) — call scripts.
-- [05_messenger_scripts_models](./models/05_messenger_scripts_models.md) — messenger scripts.
-- [06_objection_handling_models](./models/06_objection_handling_models.md) — objection handling guide.
+- [04_call_scripts_models](https://huntme.help/models/04_call_scripts_models.md) — call scripts.
+- [05_messenger_scripts_models](https://huntme.help/models/05_messenger_scripts_models.md) — messenger scripts.
+- [06_objection_handling_models](https://huntme.help/models/06_objection_handling_models.md) — objection handling guide.
 
 ### Operators
 
-- [08_call_scripts_operators](./operators/08_call_scripts_operators.md) — call scripts.
-- [09_messenger_scripts_operators](./operators/09_messenger_scripts_operators.md) — messenger scripts.
-- [10_objection_handling_operators](./operators/10_objection_handling_operators.md) — objection handling guide.
+- [08_call_scripts_operators](https://huntme.help/operators/08_call_scripts_operators.md) — call scripts.
+- [09_messenger_scripts_operators](https://huntme.help/operators/09_messenger_scripts_operators.md) — messenger scripts.
+- [10_objection_handling_operators](https://huntme.help/operators/10_objection_handling_operators.md) — objection handling guide.
 
-The folders are placed in order inside each direction (`/models/` and `/operators/`) right after the requirements documents for photos and equipment.
+The folders are placed in order inside each direction (`https://huntme.help/models/` and `https://huntme.help/operators/`) right after the requirements documents for photos and equipment.
 
 ## Usage rules
 
