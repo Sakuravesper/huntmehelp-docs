@@ -184,3 +184,7 @@ The next steps are:
 - train recruiters on the scripts,
 - launch lead generation campaigns,
 - agree with HUNTME on final partnership terms and reporting format.
+
+## Contact
+
+For documentation-related questions, visit [huntme.help](https://huntme.help).
